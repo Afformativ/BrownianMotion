@@ -1,0 +1,14 @@
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\ParalelProg\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\ParalelProg\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
